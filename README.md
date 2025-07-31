@@ -7,14 +7,14 @@
 
 ## 📋 Descripción del Sistema
 
-Solución tecnológica propietaria desarrollada por **WoMo Studio** para gestión especializada de inventarios y recursos. Sistema completo con módulos integrados para:
+Solución tecnológica propietaria desarrollada por **WoMo Soluciónˢ** para gestión especializada de inventarios y recursos. Sistema completo con módulos integrados para:
 
 - Control avanzado de stock y almacenes
 - Gestión de proveedores y compras
 - Reportes ejecutivos y análisis de datos
 - Seguridad por roles y permisos granular
 
-## 🛠 Tecnologías Clave
+## 🛠 Stack Tecnológico
 
 **Backend Avanzado:**
 - Arquitectura en Python con Flask/Django
@@ -22,7 +22,7 @@ Solución tecnológica propietaria desarrollada por **WoMo Studio** para gestió
 - PostgreSQL para gestión de datos complejos
 - Redis para caché y sesiones
 
-**Frontend Profesional:**
+**Frontend:**
 - Diseño responsive con Bootstrap 5
 - Gráficos interactivos con Chart.js
 - Componentes modulares con Vue.js/React
@@ -64,7 +64,7 @@ Solución tecnológica propietaria desarrollada por **WoMo Studio** para gestió
 
 ## 🛡️ Derechos de Autor y Uso
 
-© 2025 WoMo Studio. Todos los derechos reservados.
+© 2025 WoMo Soluciónˢ. Todos los derechos reservados.
 
 **Condiciones de uso:**
 - Estrictamente confidencial
@@ -76,12 +76,12 @@ Solución tecnológica propietaria desarrollada por **WoMo Studio** para gestió
 **Julián Alberto Ramírez**  
 💻 CTO & Desarrollador Full Stack   
 ⚙️ Automatización | 🧩 Soluciones software |💡 Innovador Tecnológico | 🔍 Apasionado por IA  
-🏢 **WoMo Studio** - Soluciones Tecnológicas Avanzadas  
+🏢 **WoMo Soluciónˢ** - Soluciones Tecnológicas Avanzadas  
 
 📧 [Correo corporativo](mailto:womostd@gmail.com)  
 📧 [Correo alternativo](mailto:juliram81@hotmail.com)  
 📱 [WhatsApp](https://wa.me/573180401930)  
-🔗 [LinkedIn Corporativo](https://www.linkedin.com/company/womo-studio/)  
+🔗 [LinkedIn Corporativo](https://www.linkedin.com/company/womo-solucions/)  
    
 ---
 
@@ -95,5 +95,5 @@ Este sistema demuestra capacidades avanzadas en:
 
 
 📅 **Control de Versiones**  
-🔹 Versión actual: 2.1.0  
-🔹 Última actualización: Julio 2025
+📅 ![Versión](https://img.shields.io/badge/Versión-1.2.0-blue)  
+🔄 ![Última Actualización](https://img.shields.io/badge/Actualizado-Jun_2025-green)
