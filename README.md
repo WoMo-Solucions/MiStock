@@ -1,4 +1,4 @@
-# 🏭 Unistock - Sistema Propietario de Gestión
+# 🏭 MiStock - Sistema Propietario de Gestión
 
 ![Estado](https://img.shields.io/badge/🚀_En_Producción-green) 
 ![Licencia](https://img.shields.io/badge/Licencia-🔒_Privada-red)
@@ -7,7 +7,7 @@
 
 ## 📋 Descripción del Sistema
 
-Solución tecnológica propietaria desarrollada por **WoMo Soluciónˢ** para gestión especializada de inventarios y recursos. Sistema completo con módulos integrados para:
+Es una solución tecnológica para la gestión especializada de inventarios y recursos. Sistema completo con módulos integrados para:
 
 - Control avanzado de stock y almacenes
 - Gestión de proveedores y compras
@@ -46,7 +46,7 @@ Solución tecnológica propietaria desarrollada por **WoMo Soluciónˢ** para ge
 - Deployment manual con validación
   
 ## 🖥️ Estructura del Proyecto
-📁 unistock/  
+📁 MiStock/  
 ├── 📂 core/ # Módulos principales  
 │ ├── inventory/ # Gestión de inventarios  
 │ ├── reporting/ # Generación de reportes  
@@ -95,5 +95,4 @@ Este sistema demuestra capacidades avanzadas en:
 
 
 📅 **Control de Versiones**  
-📅 ![Versión](https://img.shields.io/badge/Versión-1.2.0-blue)  
-🔄 ![Última Actualización](https://img.shields.io/badge/Actualizado-Jun_2025-green)
+ ![Versión](https://img.shields.io/badge/Versión-1.2.0-blue)  ![Última Actualización](https://img.shields.io/badge/Actualizado-Jun_2025-green)
